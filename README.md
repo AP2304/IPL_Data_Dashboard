@@ -1,8 +1,6 @@
 # IPL_Data_Dashboard
 An interactive dashboard for visualizing and analyzing Indian Premier League (IPL) data.
 
-# IPL Data Dashboard
-
 ## Overview
 The **IPL Data Dashboard** is a Power BI report that provides comprehensive insights into Indian Premier League (IPL) statistics. Users can explore team performances, player records, match results, and season trends using interactive visualizations.
 
